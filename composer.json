@@ -10,7 +10,10 @@
   "extra": {
     "dux": {
       "app": "app",
-      "config": "config"
+      "config": {
+        "dir": "config",
+        "ignore": true
+      }
     }
   }
 }

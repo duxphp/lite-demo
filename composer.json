@@ -8,5 +8,9 @@
   "autoload": {
   },
   "extra": {
+    "dux": {
+      "app": "app",
+      "config": "config"
+    }
   }
 }

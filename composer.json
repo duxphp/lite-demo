@@ -8,12 +8,12 @@
   "autoload": {
   },
   "extra": {
-    "dux": {
-      "app": "app",
-      "config": {
-        "dir": "config",
-        "ignore": true
+    "dux": [
+      {
+        "source": "app",
+        "target": "app",
+        "ignore": false
       }
-    }
+    ]
   }
 }
